@@ -19,7 +19,7 @@ http://127.0.0.1:8080/numbers?urlList=http://127.0.0.1:8090/primes&urlList=http:
 Each URL returns a JSON data structure that looks similar to this:
 ```json
 {
-  "numbers”: [50,4,18,24,90,88,99,98,56,47]
+  "numbers": [50,4,18,24,90,88,99,98,56,47]
 }
 ```
 
